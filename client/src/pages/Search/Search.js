@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import Article from '../../components/Article/Article';
+import Title from '../../components/Title/Title';
 
-class Search extends component {
+class Search extends Component {
   render() {
     return (
       <div>
