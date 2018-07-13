@@ -2,7 +2,7 @@ import React from 'react';
 
 const Nav = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light">
-    <a className="navbar-brand" href="/home">
+    <a className="navbar-brand" href="/">
       NYT Search
     </a>
     <button
@@ -19,7 +19,7 @@ const Nav = () => (
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item active">
-          <a className="nav-link" href="/home">
+          <a className="nav-link" href="/search">
             Home<span className="sr-only">(current)</span>
           </a>
         </li>

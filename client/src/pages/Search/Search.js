@@ -9,7 +9,7 @@ class Search extends Component {
         <Title />
         <div className="container">
           <div className="card">
-            <div className="card-header">Featured</div>
+            <div className="card-header">Featured Articles</div>
             <Article />
           </div>
         </div>
